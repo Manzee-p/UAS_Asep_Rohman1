@@ -1,0 +1,53 @@
+.body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+.contain {
+    max-width: 900px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.col-title {
+    font-weight: bold;
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 10px 0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.result-label {
+    font-weight: bold;
+}
+.btn-center {
+    width: 150px;
+    margin-top: 20px;
+}
+.card-body p {
+    margin-bottom: 10px;
+}
+.label-text {
+    font-weight: bold;
+    display: inline-block;
+    width: 150px;
+}
+.image-logo {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    font-size: 1rem;
+}
+
+table {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+table td {
+    padding: 10px;
+}
